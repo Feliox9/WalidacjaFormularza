@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+    color: fuchsia;
+}
+
+.zwierz:hover {
+    transform: rotate(360deg);
+    transition-duration: 300ms;
+}
+
+.Error {
+    color:crimson;
+}
